@@ -8,11 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/sahani_indrajit" target="blank"><img src="https://img.shields.io/twitter/follow/sahani_indrajit?logo=twitter&style=for-the-badge" alt="sahani_indrajit" /></a> </p>
 
-- 🌱 I’m currently learning **Web development MERN Stack**
+# 🌱 Hi there! I'm Indrajit Sahani
 
-- 💬 Ask me about **MERN**
+I'm currently diving deep into **Web Development** with a focus on the **MERN Stack** (MongoDB, Express.js, React, Node.js). Passionate about coding and eager to build dynamic and interactive web applications!
 
-- 📫 How to reach me **indrajit38mig@gmail.com**
+## 💬 Ask Me About
+
+-   **MERN Stack**: I’m learning and building projects with MongoDB, Express.js, React, and Node.js. Feel free to reach out if you have any questions or need guidance on these technologies.
+
+## 📫 How to Reach Me
+
+-   **Email**: indrajit38mig@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahaniindrajit&show_icons=true&locale=en&layout=compact" alt="sahaniindrajit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahaniindrajit&show_icons=true&locale=en" alt="sahaniindrajit" /></p>
+
 
