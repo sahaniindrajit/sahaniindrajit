@@ -14,7 +14,7 @@ I'm currently diving deep into **Web Development** with a focus on the **MERN St
 
 ## 💬 Ask Me About
 
--   **MERN Stack**: I’m learning and building projects with MongoDB, Express.js, React, and Node.js. Feel free to reach out if you have any questions or need guidance on these technologies.
+-   **MERN Stack**: Seasoned Fullstack Developer with a passion for creating impactful and user-centric applications. With expertise across frontend and backend development, I specialize in building robust, scalable web apps from concept to deployment. I excel in crafting seamless user experiences and ensuring accessibility, with a strong focus on optimizing both performance and security.
 
 ## 📫 How to Reach Me
 
