@@ -76,7 +76,6 @@
 - **I build fast, ship often, and think like a founder.**
 - **Startup-Ready:** Used to wearing many hats—design, backend, frontend, infra, testing.
 - **Remote-First:** Proven track record in async, distributed, and multicultural teams.
-- **YC Mindset:** I love working on products that scale, automate, and solve real user pain.
 - **Curiosity-Driven:** Obsessed with learning, adapting, and solving complex problems.
 
 ---
